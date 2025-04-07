@@ -1,0 +1,231 @@
+[34m[INFO ][0;39m [36m2025-04-04 14:37:55.100[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:53][0;39m - Starting LikeLionSampleApplication using Java 21.0.6 with PID 21684 (C:\dev\project\likelion4\likelion-backend\build\classes\java\main started by Ham in C:\dev\project\likelion4\likelion-backend)
+[34m[INFO ][0;39m [36m2025-04-04 14:37:55.115[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:652][0;39m - No active profile set, falling back to 1 default profile: "default"
+[34m[INFO ][0;39m [36m2025-04-04 14:38:06.834[0;39m : [32m[org.springframework.data.repository.config.RepositoryConfigurationDelegate:143][0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[34m[INFO ][0;39m [36m2025-04-04 14:38:08.149[0;39m : [32m[org.springframework.data.repository.config.RepositoryConfigurationDelegate:211][0;39m - Finished Spring Data repository scanning in 1142 ms. Found 0 JPA repository interfaces.
+[34m[INFO ][0;39m [36m2025-04-04 14:39:16.850[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:53][0;39m - Starting LikeLionSampleApplication using Java 21.0.6 with PID 20416 (C:\dev\project\likelion4\likelion-backend\build\classes\java\main started by Ham in C:\dev\project\likelion4\likelion-backend)
+[34m[INFO ][0;39m [36m2025-04-04 14:39:16.896[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:652][0;39m - No active profile set, falling back to 1 default profile: "default"
+[34m[INFO ][0;39m [36m2025-04-04 14:39:23.347[0;39m : [32m[org.springframework.data.repository.config.RepositoryConfigurationDelegate:143][0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[34m[INFO ][0;39m [36m2025-04-04 14:39:24.042[0;39m : [32m[org.springframework.data.repository.config.RepositoryConfigurationDelegate:211][0;39m - Finished Spring Data repository scanning in 627 ms. Found 0 JPA repository interfaces.
+[34m[INFO ][0;39m [36m2025-04-04 14:39:30.675[0;39m : [32m[org.springframework.boot.web.embedded.tomcat.TomcatWebServer:111][0;39m - Tomcat initialized with port 8082 (http)
+[34m[INFO ][0;39m [36m2025-04-04 14:39:30.815[0;39m : [32m[org.apache.coyote.http11.Http11NioProtocol:173][0;39m - Initializing ProtocolHandler ["http-nio-8082"]
+[34m[INFO ][0;39m [36m2025-04-04 14:39:30.823[0;39m : [32m[org.apache.catalina.core.StandardService:173][0;39m - Starting service [Tomcat]
+[34m[INFO ][0;39m [36m2025-04-04 14:39:30.824[0;39m : [32m[org.apache.catalina.core.StandardEngine:173][0;39m - Starting Servlet engine: [Apache Tomcat/10.1.36]
+[34m[INFO ][0;39m [36m2025-04-04 14:39:31.357[0;39m : [32m[org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173][0;39m - Initializing Spring embedded WebApplicationContext
+[34m[INFO ][0;39m [36m2025-04-04 14:39:31.359[0;39m : [32m[org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:301][0;39m - Root WebApplicationContext: initialization completed in 14107 ms
+[34m[INFO ][0;39m [36m2025-04-04 14:39:33.381[0;39m : [32m[org.hibernate.jpa.internal.util.LogHelper:31][0;39m - HHH000204: Processing PersistenceUnitInfo [name: default]
+[34m[INFO ][0;39m [36m2025-04-04 14:39:33.800[0;39m : [32m[org.hibernate.Version:44][0;39m - HHH000412: Hibernate ORM core version 6.6.8.Final
+[34m[INFO ][0;39m [36m2025-04-04 14:39:34.121[0;39m : [32m[org.hibernate.cache.internal.RegionFactoryInitiator:50][0;39m - HHH000026: Second-level cache disabled
+[34m[INFO ][0;39m [36m2025-04-04 14:39:36.369[0;39m : [32m[org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:87][0;39m - No LoadTimeWeaver setup: ignoring JPA class transformer
+[34m[INFO ][0;39m [36m2025-04-04 14:39:36.634[0;39m : [32m[com.zaxxer.hikari.HikariDataSource:109][0;39m - HikariPool-1 - Starting...
+[34m[INFO ][0;39m [36m2025-04-04 14:39:39.933[0;39m : [32m[com.zaxxer.hikari.pool.HikariPool:554][0;39m - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@508f4bb5
+[34m[INFO ][0;39m [36m2025-04-04 14:39:39.941[0;39m : [32m[com.zaxxer.hikari.HikariDataSource:122][0;39m - HikariPool-1 - Start completed.
+[34m[INFO ][0;39m [36m2025-04-04 14:39:40.718[0;39m : [32m[org.hibernate.orm.connections.pooling:157][0;39m - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+[34m[INFO ][0;39m [36m2025-04-04 14:39:43.197[0;39m : [32m[org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:59][0;39m - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[34m[INFO ][0;39m [36m2025-04-04 14:39:43.221[0;39m : [32m[org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:447][0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[31m[WARN ][0;39m [36m2025-04-04 14:39:44.418[0;39m : [32m[org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration:241][0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[34m[INFO ][0;39m [36m2025-04-04 14:39:44.641[0;39m : [32m[org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping:59][0;39m - Adding welcome page template: index
+[34m[INFO ][0;39m [36m2025-04-04 14:39:46.760[0;39m : [32m[org.apache.coyote.http11.Http11NioProtocol:173][0;39m - Starting ProtocolHandler ["http-nio-8082"]
+[34m[INFO ][0;39m [36m2025-04-04 14:39:46.878[0;39m : [32m[org.springframework.boot.web.embedded.tomcat.TomcatWebServer:243][0;39m - Tomcat started on port 8082 (http) with context path '/'
+[34m[INFO ][0;39m [36m2025-04-04 14:39:46.971[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:59][0;39m - Started LikeLionSampleApplication in 36.927 seconds (process running for 41.797)
+[34m[INFO ][0;39m [36m2025-04-04 14:42:40.574[0;39m : [32m[org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173][0;39m - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[34m[INFO ][0;39m [36m2025-04-04 14:42:40.576[0;39m : [32m[org.springframework.web.servlet.DispatcherServlet:532][0;39m - Initializing Servlet 'dispatcherServlet'
+[34m[INFO ][0;39m [36m2025-04-04 14:42:40.618[0;39m : [32m[org.springframework.web.servlet.DispatcherServlet:554][0;39m - Completed initialization in 33 ms
+[34m[INFO ][0;39m [36m2025-04-04 14:59:28.267[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:53][0;39m - Starting LikeLionSampleApplication using Java 21.0.6 with PID 15332 (C:\dev\project\likelion4\likelion-backend\build\classes\java\main started by Ham in C:\dev\project\likelion4\likelion-backend)
+[34m[INFO ][0;39m [36m2025-04-04 14:59:28.278[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:652][0;39m - No active profile set, falling back to 1 default profile: "default"
+[34m[INFO ][0;39m [36m2025-04-04 14:59:30.262[0;39m : [32m[org.springframework.data.repository.config.RepositoryConfigurationDelegate:143][0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[34m[INFO ][0;39m [36m2025-04-04 14:59:30.404[0;39m : [32m[org.springframework.data.repository.config.RepositoryConfigurationDelegate:211][0;39m - Finished Spring Data repository scanning in 121 ms. Found 0 JPA repository interfaces.
+[34m[INFO ][0;39m [36m2025-04-04 14:59:31.503[0;39m : [32m[org.springframework.boot.web.embedded.tomcat.TomcatWebServer:111][0;39m - Tomcat initialized with port 8082 (http)
+[34m[INFO ][0;39m [36m2025-04-04 14:59:31.521[0;39m : [32m[org.apache.coyote.http11.Http11NioProtocol:173][0;39m - Initializing ProtocolHandler ["http-nio-8082"]
+[34m[INFO ][0;39m [36m2025-04-04 14:59:31.524[0;39m : [32m[org.apache.catalina.core.StandardService:173][0;39m - Starting service [Tomcat]
+[34m[INFO ][0;39m [36m2025-04-04 14:59:31.525[0;39m : [32m[org.apache.catalina.core.StandardEngine:173][0;39m - Starting Servlet engine: [Apache Tomcat/10.1.36]
+[34m[INFO ][0;39m [36m2025-04-04 14:59:31.644[0;39m : [32m[org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173][0;39m - Initializing Spring embedded WebApplicationContext
+[34m[INFO ][0;39m [36m2025-04-04 14:59:31.645[0;39m : [32m[org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:301][0;39m - Root WebApplicationContext: initialization completed in 3247 ms
+[34m[INFO ][0;39m [36m2025-04-04 14:59:32.239[0;39m : [32m[org.hibernate.jpa.internal.util.LogHelper:31][0;39m - HHH000204: Processing PersistenceUnitInfo [name: default]
+[34m[INFO ][0;39m [36m2025-04-04 14:59:32.391[0;39m : [32m[org.hibernate.Version:44][0;39m - HHH000412: Hibernate ORM core version 6.6.8.Final
+[34m[INFO ][0;39m [36m2025-04-04 14:59:32.469[0;39m : [32m[org.hibernate.cache.internal.RegionFactoryInitiator:50][0;39m - HHH000026: Second-level cache disabled
+[34m[INFO ][0;39m [36m2025-04-04 14:59:33.161[0;39m : [32m[org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:87][0;39m - No LoadTimeWeaver setup: ignoring JPA class transformer
+[34m[INFO ][0;39m [36m2025-04-04 14:59:33.232[0;39m : [32m[com.zaxxer.hikari.HikariDataSource:109][0;39m - HikariPool-1 - Starting...
+[34m[INFO ][0;39m [36m2025-04-04 14:59:33.913[0;39m : [32m[com.zaxxer.hikari.pool.HikariPool:554][0;39m - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@75f8d9b0
+[34m[INFO ][0;39m [36m2025-04-04 14:59:33.925[0;39m : [32m[com.zaxxer.hikari.HikariDataSource:122][0;39m - HikariPool-1 - Start completed.
+[34m[INFO ][0;39m [36m2025-04-04 14:59:34.131[0;39m : [32m[org.hibernate.orm.connections.pooling:157][0;39m - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+[34m[INFO ][0;39m [36m2025-04-04 14:59:34.793[0;39m : [32m[org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:59][0;39m - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[34m[INFO ][0;39m [36m2025-04-04 14:59:34.800[0;39m : [32m[org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:447][0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[31m[WARN ][0;39m [36m2025-04-04 14:59:35.191[0;39m : [32m[org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration:241][0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[34m[INFO ][0;39m [36m2025-04-04 14:59:35.247[0;39m : [32m[org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping:59][0;39m - Adding welcome page template: index
+[34m[INFO ][0;39m [36m2025-04-04 14:59:35.868[0;39m : [32m[org.apache.coyote.http11.Http11NioProtocol:173][0;39m - Starting ProtocolHandler ["http-nio-8082"]
+[34m[INFO ][0;39m [36m2025-04-04 14:59:35.902[0;39m : [32m[org.springframework.boot.web.embedded.tomcat.TomcatWebServer:243][0;39m - Tomcat started on port 8082 (http) with context path '/'
+[34m[INFO ][0;39m [36m2025-04-04 14:59:35.918[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:59][0;39m - Started LikeLionSampleApplication in 10.121 seconds (process running for 11.155)
+[34m[INFO ][0;39m [36m2025-04-04 15:05:50.155[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:53][0;39m - Starting LikeLionSampleApplication using Java 21.0.6 with PID 18780 (C:\dev\project\likelion4\likelion-backend\build\classes\java\main started by Ham in C:\dev\project\likelion4\likelion-backend)
+[34m[INFO ][0;39m [36m2025-04-04 15:05:50.173[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:652][0;39m - No active profile set, falling back to 1 default profile: "default"
+[34m[INFO ][0;39m [36m2025-04-04 15:05:55.277[0;39m : [32m[org.springframework.data.repository.config.RepositoryConfigurationDelegate:143][0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[34m[INFO ][0;39m [36m2025-04-04 15:05:56.276[0;39m : [32m[org.springframework.data.repository.config.RepositoryConfigurationDelegate:211][0;39m - Finished Spring Data repository scanning in 942 ms. Found 0 JPA repository interfaces.
+[34m[INFO ][0;39m [36m2025-04-04 15:06:02.176[0;39m : [32m[org.springframework.boot.web.embedded.tomcat.TomcatWebServer:111][0;39m - Tomcat initialized with port 8082 (http)
+[34m[INFO ][0;39m [36m2025-04-04 15:06:02.251[0;39m : [32m[org.apache.coyote.http11.Http11NioProtocol:173][0;39m - Initializing ProtocolHandler ["http-nio-8082"]
+[34m[INFO ][0;39m [36m2025-04-04 15:06:02.259[0;39m : [32m[org.apache.catalina.core.StandardService:173][0;39m - Starting service [Tomcat]
+[34m[INFO ][0;39m [36m2025-04-04 15:06:02.260[0;39m : [32m[org.apache.catalina.core.StandardEngine:173][0;39m - Starting Servlet engine: [Apache Tomcat/10.1.36]
+[34m[INFO ][0;39m [36m2025-04-04 15:06:02.788[0;39m : [32m[org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173][0;39m - Initializing Spring embedded WebApplicationContext
+[34m[INFO ][0;39m [36m2025-04-04 15:06:02.789[0;39m : [32m[org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:301][0;39m - Root WebApplicationContext: initialization completed in 12322 ms
+[34m[INFO ][0;39m [36m2025-04-04 15:06:04.361[0;39m : [32m[org.hibernate.jpa.internal.util.LogHelper:31][0;39m - HHH000204: Processing PersistenceUnitInfo [name: default]
+[34m[INFO ][0;39m [36m2025-04-04 15:06:04.833[0;39m : [32m[org.hibernate.Version:44][0;39m - HHH000412: Hibernate ORM core version 6.6.8.Final
+[34m[INFO ][0;39m [36m2025-04-04 15:06:05.140[0;39m : [32m[org.hibernate.cache.internal.RegionFactoryInitiator:50][0;39m - HHH000026: Second-level cache disabled
+[34m[INFO ][0;39m [36m2025-04-04 15:06:07.307[0;39m : [32m[org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:87][0;39m - No LoadTimeWeaver setup: ignoring JPA class transformer
+[34m[INFO ][0;39m [36m2025-04-04 15:06:07.488[0;39m : [32m[com.zaxxer.hikari.HikariDataSource:109][0;39m - HikariPool-1 - Starting...
+[34m[INFO ][0;39m [36m2025-04-04 15:06:10.447[0;39m : [32m[com.zaxxer.hikari.pool.HikariPool:554][0;39m - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@508f4bb5
+[34m[INFO ][0;39m [36m2025-04-04 15:06:10.455[0;39m : [32m[com.zaxxer.hikari.HikariDataSource:122][0;39m - HikariPool-1 - Start completed.
+[34m[INFO ][0;39m [36m2025-04-04 15:06:11.089[0;39m : [32m[org.hibernate.orm.connections.pooling:157][0;39m - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+[34m[INFO ][0;39m [36m2025-04-04 15:06:13.258[0;39m : [32m[org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:59][0;39m - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[34m[INFO ][0;39m [36m2025-04-04 15:06:13.288[0;39m : [32m[org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:447][0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[31m[WARN ][0;39m [36m2025-04-04 15:06:14.383[0;39m : [32m[org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration:241][0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[34m[INFO ][0;39m [36m2025-04-04 15:06:14.512[0;39m : [32m[org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping:59][0;39m - Adding welcome page template: index
+[34m[INFO ][0;39m [36m2025-04-04 15:06:15.902[0;39m : [32m[org.apache.coyote.http11.Http11NioProtocol:173][0;39m - Starting ProtocolHandler ["http-nio-8082"]
+[34m[INFO ][0;39m [36m2025-04-04 15:06:16.051[0;39m : [32m[org.springframework.boot.web.embedded.tomcat.TomcatWebServer:243][0;39m - Tomcat started on port 8082 (http) with context path '/'
+[34m[INFO ][0;39m [36m2025-04-04 15:06:16.088[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:59][0;39m - Started LikeLionSampleApplication in 30.335 seconds (process running for 32.059)
+[34m[INFO ][0;39m [36m2025-04-04 15:09:29.442[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:53][0;39m - Starting LikeLionSampleApplication using Java 21.0.6 with PID 22728 (C:\dev\project\likelion4\likelion-backend\build\classes\java\main started by Ham in C:\dev\project\likelion4\likelion-backend)
+[34m[INFO ][0;39m [36m2025-04-04 15:09:29.474[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:652][0;39m - No active profile set, falling back to 1 default profile: "default"
+[34m[INFO ][0;39m [36m2025-04-04 15:09:37.842[0;39m : [32m[org.springframework.data.repository.config.RepositoryConfigurationDelegate:143][0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[34m[INFO ][0;39m [36m2025-04-04 15:09:40.276[0;39m : [32m[org.springframework.data.repository.config.RepositoryConfigurationDelegate:211][0;39m - Finished Spring Data repository scanning in 2314 ms. Found 0 JPA repository interfaces.
+[34m[INFO ][0;39m [36m2025-04-04 15:09:47.146[0;39m : [32m[org.springframework.boot.web.embedded.tomcat.TomcatWebServer:111][0;39m - Tomcat initialized with port 8082 (http)
+[34m[INFO ][0;39m [36m2025-04-04 15:09:47.258[0;39m : [32m[org.apache.coyote.http11.Http11NioProtocol:173][0;39m - Initializing ProtocolHandler ["http-nio-8082"]
+[34m[INFO ][0;39m [36m2025-04-04 15:09:47.266[0;39m : [32m[org.apache.catalina.core.StandardService:173][0;39m - Starting service [Tomcat]
+[34m[INFO ][0;39m [36m2025-04-04 15:09:47.269[0;39m : [32m[org.apache.catalina.core.StandardEngine:173][0;39m - Starting Servlet engine: [Apache Tomcat/10.1.36]
+[34m[INFO ][0;39m [36m2025-04-04 15:09:47.856[0;39m : [32m[org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173][0;39m - Initializing Spring embedded WebApplicationContext
+[34m[INFO ][0;39m [36m2025-04-04 15:09:47.862[0;39m : [32m[org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:301][0;39m - Root WebApplicationContext: initialization completed in 17610 ms
+[34m[INFO ][0;39m [36m2025-04-04 15:09:50.688[0;39m : [32m[org.hibernate.jpa.internal.util.LogHelper:31][0;39m - HHH000204: Processing PersistenceUnitInfo [name: default]
+[34m[INFO ][0;39m [36m2025-04-04 15:09:51.831[0;39m : [32m[org.hibernate.Version:44][0;39m - HHH000412: Hibernate ORM core version 6.6.8.Final
+[34m[INFO ][0;39m [36m2025-04-04 15:09:53.205[0;39m : [32m[org.hibernate.cache.internal.RegionFactoryInitiator:50][0;39m - HHH000026: Second-level cache disabled
+[34m[INFO ][0;39m [36m2025-04-04 15:09:56.305[0;39m : [32m[org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:87][0;39m - No LoadTimeWeaver setup: ignoring JPA class transformer
+[34m[INFO ][0;39m [36m2025-04-04 15:09:56.474[0;39m : [32m[com.zaxxer.hikari.HikariDataSource:109][0;39m - HikariPool-1 - Starting...
+[34m[INFO ][0;39m [36m2025-04-04 15:09:59.109[0;39m : [32m[com.zaxxer.hikari.pool.HikariPool:554][0;39m - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1868ed54
+[34m[INFO ][0;39m [36m2025-04-04 15:09:59.116[0;39m : [32m[com.zaxxer.hikari.HikariDataSource:122][0;39m - HikariPool-1 - Start completed.
+[34m[INFO ][0;39m [36m2025-04-04 15:09:59.889[0;39m : [32m[org.hibernate.orm.connections.pooling:157][0;39m - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+[34m[INFO ][0;39m [36m2025-04-04 15:10:03.110[0;39m : [32m[org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:59][0;39m - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[34m[INFO ][0;39m [36m2025-04-04 15:10:03.138[0;39m : [32m[org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:447][0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[31m[WARN ][0;39m [36m2025-04-04 15:10:04.195[0;39m : [32m[org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration:241][0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[34m[INFO ][0;39m [36m2025-04-04 15:10:04.331[0;39m : [32m[org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping:59][0;39m - Adding welcome page template: index
+[34m[INFO ][0;39m [36m2025-04-04 15:10:05.637[0;39m : [32m[org.apache.coyote.http11.Http11NioProtocol:173][0;39m - Starting ProtocolHandler ["http-nio-8082"]
+[34m[INFO ][0;39m [36m2025-04-04 15:10:05.704[0;39m : [32m[org.springframework.boot.web.embedded.tomcat.TomcatWebServer:243][0;39m - Tomcat started on port 8082 (http) with context path '/'
+[34m[INFO ][0;39m [36m2025-04-04 15:10:05.736[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:59][0;39m - Started LikeLionSampleApplication in 49.996 seconds (process running for 53.577)
+[34m[INFO ][0;39m [36m2025-04-04 15:11:02.841[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:53][0;39m - Starting LikeLionSampleApplication using Java 21.0.6 with PID 2248 (C:\dev\project\likelion4\likelion-backend\build\classes\java\main started by Ham in C:\dev\project\likelion4\likelion-backend)
+[34m[INFO ][0;39m [36m2025-04-04 15:11:02.870[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:652][0;39m - No active profile set, falling back to 1 default profile: "default"
+[34m[INFO ][0;39m [36m2025-04-04 15:11:07.238[0;39m : [32m[org.springframework.data.repository.config.RepositoryConfigurationDelegate:143][0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[34m[INFO ][0;39m [36m2025-04-04 15:11:07.646[0;39m : [32m[org.springframework.data.repository.config.RepositoryConfigurationDelegate:211][0;39m - Finished Spring Data repository scanning in 365 ms. Found 0 JPA repository interfaces.
+[34m[INFO ][0;39m [36m2025-04-04 15:11:11.861[0;39m : [32m[org.springframework.boot.web.embedded.tomcat.TomcatWebServer:111][0;39m - Tomcat initialized with port 8082 (http)
+[34m[INFO ][0;39m [36m2025-04-04 15:11:11.941[0;39m : [32m[org.apache.coyote.http11.Http11NioProtocol:173][0;39m - Initializing ProtocolHandler ["http-nio-8082"]
+[34m[INFO ][0;39m [36m2025-04-04 15:11:11.953[0;39m : [32m[org.apache.catalina.core.StandardService:173][0;39m - Starting service [Tomcat]
+[34m[INFO ][0;39m [36m2025-04-04 15:11:11.955[0;39m : [32m[org.apache.catalina.core.StandardEngine:173][0;39m - Starting Servlet engine: [Apache Tomcat/10.1.36]
+[34m[INFO ][0;39m [36m2025-04-04 15:11:12.566[0;39m : [32m[org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173][0;39m - Initializing Spring embedded WebApplicationContext
+[34m[INFO ][0;39m [36m2025-04-04 15:11:12.567[0;39m : [32m[org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:301][0;39m - Root WebApplicationContext: initialization completed in 9415 ms
+[34m[INFO ][0;39m [36m2025-04-04 15:11:14.581[0;39m : [32m[org.hibernate.jpa.internal.util.LogHelper:31][0;39m - HHH000204: Processing PersistenceUnitInfo [name: default]
+[34m[INFO ][0;39m [36m2025-04-04 15:11:14.950[0;39m : [32m[org.hibernate.Version:44][0;39m - HHH000412: Hibernate ORM core version 6.6.8.Final
+[34m[INFO ][0;39m [36m2025-04-04 15:11:15.273[0;39m : [32m[org.hibernate.cache.internal.RegionFactoryInitiator:50][0;39m - HHH000026: Second-level cache disabled
+[34m[INFO ][0;39m [36m2025-04-04 15:11:18.315[0;39m : [32m[org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:87][0;39m - No LoadTimeWeaver setup: ignoring JPA class transformer
+[34m[INFO ][0;39m [36m2025-04-04 15:11:18.780[0;39m : [32m[com.zaxxer.hikari.HikariDataSource:109][0;39m - HikariPool-1 - Starting...
+[34m[INFO ][0;39m [36m2025-04-04 15:11:22.417[0;39m : [32m[com.zaxxer.hikari.pool.HikariPool:554][0;39m - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@508f4bb5
+[34m[INFO ][0;39m [36m2025-04-04 15:11:22.433[0;39m : [32m[com.zaxxer.hikari.HikariDataSource:122][0;39m - HikariPool-1 - Start completed.
+[34m[INFO ][0;39m [36m2025-04-04 15:11:23.139[0;39m : [32m[org.hibernate.orm.connections.pooling:157][0;39m - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+[34m[INFO ][0;39m [36m2025-04-04 15:11:25.503[0;39m : [32m[org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:59][0;39m - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[34m[INFO ][0;39m [36m2025-04-04 15:11:25.534[0;39m : [32m[org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:447][0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[31m[WARN ][0;39m [36m2025-04-04 15:11:26.882[0;39m : [32m[org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration:241][0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[34m[INFO ][0;39m [36m2025-04-04 15:11:27.025[0;39m : [32m[org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping:59][0;39m - Adding welcome page template: index
+[34m[INFO ][0;39m [36m2025-04-04 15:11:29.367[0;39m : [32m[org.apache.coyote.http11.Http11NioProtocol:173][0;39m - Starting ProtocolHandler ["http-nio-8082"]
+[34m[INFO ][0;39m [36m2025-04-04 15:11:29.451[0;39m : [32m[org.springframework.boot.web.embedded.tomcat.TomcatWebServer:243][0;39m - Tomcat started on port 8082 (http) with context path '/'
+[34m[INFO ][0;39m [36m2025-04-04 15:11:29.482[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:59][0;39m - Started LikeLionSampleApplication in 33.32 seconds (process running for 37.079)
+[34m[INFO ][0;39m [36m2025-04-04 15:13:45.598[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:53][0;39m - Starting LikeLionSampleApplication using Java 21.0.6 with PID 27380 (C:\dev\project\likelion4\likelion-backend\build\classes\java\main started by Ham in C:\dev\project\likelion4\likelion-backend)
+[34m[INFO ][0;39m [36m2025-04-04 15:13:45.669[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:652][0;39m - No active profile set, falling back to 1 default profile: "default"
+[34m[INFO ][0;39m [36m2025-04-04 15:13:52.910[0;39m : [32m[org.springframework.data.repository.config.RepositoryConfigurationDelegate:143][0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[34m[INFO ][0;39m [36m2025-04-04 15:13:55.889[0;39m : [32m[org.springframework.data.repository.config.RepositoryConfigurationDelegate:211][0;39m - Finished Spring Data repository scanning in 2808 ms. Found 0 JPA repository interfaces.
+[34m[INFO ][0;39m [36m2025-04-04 15:14:10.439[0;39m : [32m[org.springframework.boot.web.embedded.tomcat.TomcatWebServer:111][0;39m - Tomcat initialized with port 8082 (http)
+[34m[INFO ][0;39m [36m2025-04-04 15:14:10.512[0;39m : [32m[org.apache.coyote.http11.Http11NioProtocol:173][0;39m - Initializing ProtocolHandler ["http-nio-8082"]
+[34m[INFO ][0;39m [36m2025-04-04 15:14:10.631[0;39m : [32m[org.apache.catalina.core.StandardService:173][0;39m - Starting service [Tomcat]
+[34m[INFO ][0;39m [36m2025-04-04 15:14:10.634[0;39m : [32m[org.apache.catalina.core.StandardEngine:173][0;39m - Starting Servlet engine: [Apache Tomcat/10.1.36]
+[34m[INFO ][0;39m [36m2025-04-04 15:14:12.004[0;39m : [32m[org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173][0;39m - Initializing Spring embedded WebApplicationContext
+[34m[INFO ][0;39m [36m2025-04-04 15:14:12.006[0;39m : [32m[org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:301][0;39m - Root WebApplicationContext: initialization completed in 26098 ms
+[34m[INFO ][0;39m [36m2025-04-04 15:14:16.473[0;39m : [32m[org.hibernate.jpa.internal.util.LogHelper:31][0;39m - HHH000204: Processing PersistenceUnitInfo [name: default]
+[34m[INFO ][0;39m [36m2025-04-04 15:14:16.988[0;39m : [32m[org.hibernate.Version:44][0;39m - HHH000412: Hibernate ORM core version 6.6.8.Final
+[34m[INFO ][0;39m [36m2025-04-04 15:14:17.250[0;39m : [32m[org.hibernate.cache.internal.RegionFactoryInitiator:50][0;39m - HHH000026: Second-level cache disabled
+[34m[INFO ][0;39m [36m2025-04-04 15:14:21.836[0;39m : [32m[org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:87][0;39m - No LoadTimeWeaver setup: ignoring JPA class transformer
+[34m[INFO ][0;39m [36m2025-04-04 15:14:22.181[0;39m : [32m[com.zaxxer.hikari.HikariDataSource:109][0;39m - HikariPool-1 - Starting...
+[34m[INFO ][0;39m [36m2025-04-04 15:14:26.565[0;39m : [32m[com.zaxxer.hikari.pool.HikariPool:554][0;39m - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@29b5e7db
+[34m[INFO ][0;39m [36m2025-04-04 15:14:26.684[0;39m : [32m[com.zaxxer.hikari.HikariDataSource:122][0;39m - HikariPool-1 - Start completed.
+[34m[INFO ][0;39m [36m2025-04-04 15:14:27.498[0;39m : [32m[org.hibernate.orm.connections.pooling:157][0;39m - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+[34m[INFO ][0;39m [36m2025-04-04 15:14:31.257[0;39m : [32m[org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:59][0;39m - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[34m[INFO ][0;39m [36m2025-04-04 15:14:31.289[0;39m : [32m[org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:447][0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[31m[WARN ][0;39m [36m2025-04-04 15:14:34.233[0;39m : [32m[org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration:241][0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[34m[INFO ][0;39m [36m2025-04-04 15:14:34.706[0;39m : [32m[org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping:59][0;39m - Adding welcome page template: index
+[34m[INFO ][0;39m [36m2025-04-04 15:14:37.694[0;39m : [32m[org.apache.coyote.http11.Http11NioProtocol:173][0;39m - Starting ProtocolHandler ["http-nio-8082"]
+[34m[INFO ][0;39m [36m2025-04-04 15:14:38.306[0;39m : [32m[org.springframework.boot.web.embedded.tomcat.TomcatWebServer:243][0;39m - Tomcat started on port 8082 (http) with context path '/'
+[34m[INFO ][0;39m [36m2025-04-04 15:14:38.401[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:59][0;39m - Started LikeLionSampleApplication in 60.733 seconds (process running for 64.216)
+[34m[INFO ][0;39m [36m2025-04-04 16:01:22.183[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:53][0;39m - Starting LikeLionSampleApplication using Java 21.0.6 with PID 26356 (C:\dev\project\likelion4\likelion-backend\build\classes\java\main started by Ham in C:\dev\project\likelion4\likelion-backend)
+[34m[INFO ][0;39m [36m2025-04-04 16:01:22.190[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:652][0;39m - No active profile set, falling back to 1 default profile: "default"
+[34m[INFO ][0;39m [36m2025-04-04 16:01:24.263[0;39m : [32m[org.springframework.data.repository.config.RepositoryConfigurationDelegate:143][0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[34m[INFO ][0;39m [36m2025-04-04 16:01:24.533[0;39m : [32m[org.springframework.data.repository.config.RepositoryConfigurationDelegate:211][0;39m - Finished Spring Data repository scanning in 226 ms. Found 0 JPA repository interfaces.
+[34m[INFO ][0;39m [36m2025-04-04 16:01:26.523[0;39m : [32m[org.springframework.boot.web.embedded.tomcat.TomcatWebServer:111][0;39m - Tomcat initialized with port 8082 (http)
+[34m[INFO ][0;39m [36m2025-04-04 16:01:26.547[0;39m : [32m[org.apache.coyote.http11.Http11NioProtocol:173][0;39m - Initializing ProtocolHandler ["http-nio-8082"]
+[34m[INFO ][0;39m [36m2025-04-04 16:01:26.550[0;39m : [32m[org.apache.catalina.core.StandardService:173][0;39m - Starting service [Tomcat]
+[34m[INFO ][0;39m [36m2025-04-04 16:01:26.550[0;39m : [32m[org.apache.catalina.core.StandardEngine:173][0;39m - Starting Servlet engine: [Apache Tomcat/10.1.36]
+[34m[INFO ][0;39m [36m2025-04-04 16:01:26.701[0;39m : [32m[org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:173][0;39m - Initializing Spring embedded WebApplicationContext
+[34m[INFO ][0;39m [36m2025-04-04 16:01:26.702[0;39m : [32m[org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:301][0;39m - Root WebApplicationContext: initialization completed in 4386 ms
+[34m[INFO ][0;39m [36m2025-04-04 16:01:27.304[0;39m : [32m[org.hibernate.jpa.internal.util.LogHelper:31][0;39m - HHH000204: Processing PersistenceUnitInfo [name: default]
+[34m[INFO ][0;39m [36m2025-04-04 16:01:27.484[0;39m : [32m[org.hibernate.Version:44][0;39m - HHH000412: Hibernate ORM core version 6.6.8.Final
+[34m[INFO ][0;39m [36m2025-04-04 16:01:27.571[0;39m : [32m[org.hibernate.cache.internal.RegionFactoryInitiator:50][0;39m - HHH000026: Second-level cache disabled
+[34m[INFO ][0;39m [36m2025-04-04 16:01:28.336[0;39m : [32m[org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:87][0;39m - No LoadTimeWeaver setup: ignoring JPA class transformer
+[34m[INFO ][0;39m [36m2025-04-04 16:01:28.409[0;39m : [32m[com.zaxxer.hikari.HikariDataSource:109][0;39m - HikariPool-1 - Starting...
+[34m[INFO ][0;39m [36m2025-04-04 16:01:29.027[0;39m : [32m[com.zaxxer.hikari.pool.HikariPool:554][0;39m - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@29b5e7db
+[34m[INFO ][0;39m [36m2025-04-04 16:01:29.031[0;39m : [32m[com.zaxxer.hikari.HikariDataSource:122][0;39m - HikariPool-1 - Start completed.
+[34m[INFO ][0;39m [36m2025-04-04 16:01:29.222[0;39m : [32m[org.hibernate.orm.connections.pooling:157][0;39m - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+[34m[INFO ][0;39m [36m2025-04-04 16:01:30.003[0;39m : [32m[org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:59][0;39m - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[34m[INFO ][0;39m [36m2025-04-04 16:01:30.013[0;39m : [32m[org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:447][0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[31m[WARN ][0;39m [36m2025-04-04 16:01:30.451[0;39m : [32m[org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration:241][0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[34m[INFO ][0;39m [36m2025-04-04 16:01:30.523[0;39m : [32m[org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping:59][0;39m - Adding welcome page template: index
+[34m[INFO ][0;39m [36m2025-04-04 16:01:31.404[0;39m : [32m[org.apache.coyote.http11.Http11NioProtocol:173][0;39m - Starting ProtocolHandler ["http-nio-8082"]
+[34m[INFO ][0;39m [36m2025-04-04 16:01:31.440[0;39m : [32m[org.springframework.boot.web.embedded.tomcat.TomcatWebServer:243][0;39m - Tomcat started on port 8082 (http) with context path '/'
+[34m[INFO ][0;39m [36m2025-04-04 16:01:31.455[0;39m : [32m[com.inspire12.likelionbackend.LikeLionSampleApplication:59][0;39m - Started LikeLionSampleApplication in 11.248 seconds (process running for 11.99)
